@@ -39,7 +39,7 @@ $ npm install
 Create a `.env` file in the root directory and add:
 ```env
 PORT=5001
-DATABASE_URL=mongodb+srv://quantneuraljourney:rmsRqexkbV0TCanC@cluster0.worg6.mongodb.net/admin1?retryWrites=true&w=majority&appName=Cluster0
+DATABASE_URL=mongodb+srv://your_username:your_password@cluster.mongodb.net/admin1?retryWrites=true&w=majority
 
 ### 4️⃣ Generate Prisma Client & Push Schema
 ```sh
@@ -155,4 +155,25 @@ If you’d like to contribute, feel free to **fork** this repo and submit a **pu
 For questions or feedback, reach out via [GitHub Issues](https://github.com/yourusername/school-management-system/issues).
 
 🚀 **Happy Coding!** 🚀
+
+## ADD Sreenshort 
+
+![CREATE NEW A STUDENT](https://github.com/user-attachments/assets/437825da-f921-4d8f-ab53-ecbaa4085b20)
+
+![NEW STUDENT CREATED](https://github.com/user-attachments/assets/bcd5d1aa-5349-4c12-af81-c715a58edd03)
+
+![GET NEW STUDENT](https://github.com/user-attachments/assets/7abe43c5-3ff3-461e-9f0f-56dd56b5f141)
+
+![STUDENT DETAIL UPDATED](https://github.com/user-attachments/assets/67282933-ab93-4651-81dd-679474bd7a81)
+
+![UPDATE THE STUDENT DETAIL](https://github.com/user-attachments/assets/de82fbc7-f1fd-4668-ba75-9fd229ca7ae6)
+
+![STUDENT DETAIL DELELETE](https://github.com/user-attachments/assets/3d3c1d08-bf51-49fc-9219-7c29d0ff7e09)
+
+![STUDENT DETAIL DELELETED](https://github.com/user-attachments/assets/10b89e4e-e0a1-41a2-8a8f-f651f26c4542)
+
+![Student not found](https://github.com/user-attachments/assets/962607d9-80d0-4d37-ba90-2af647f23213)
+
+![MONGODB STUDENT DATA](https://github.com/user-attachments/assets/0af2bf2c-b408-4fab-a26c-64576baf219a)
+
 
